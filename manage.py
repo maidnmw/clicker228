@@ -4,7 +4,6 @@ import os
 import sys
 
 
-# main cycle
 def main():
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'clicker.settings')
